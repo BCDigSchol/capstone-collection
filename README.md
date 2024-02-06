@@ -7,6 +7,17 @@ A project to generate a free and simple digital collection site using [GitHub Pa
 
 Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
 
+## For DH Capstone Students...
+
+**Configuration files to edit**
+```sh
+README.md # general readme (this file). Replace it with some kind of short intro to your project for anyone who finds it on GitHub
+CITATION.cff # general citation file for automated citation software. Increases your visibility
+_config.yml # general site configuration, where you must specify the name of the metadata file you will put in _data
+_data/*.csv # various specific site settings, AND where you must put your metadata file
+```
+Continue reading for links to tutorials on how to use this repository below!
+
 ## Build a Digital Collection
 
 Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy) and [metadata docs](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
