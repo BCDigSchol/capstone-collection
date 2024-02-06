@@ -10,7 +10,6 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
-link,Link,,True
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
